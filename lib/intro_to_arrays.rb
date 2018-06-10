@@ -10,3 +10,6 @@ def first_element(array)
   
 def third_element(array)
   return array[2]
+  
+def last_element(array)
+  return array[-1]
